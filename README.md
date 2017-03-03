@@ -1,9 +1,9 @@
 # MLND-Udacity
 This Nanodegree is my gateway to the world of machine learning and Data Science.
-It consists of a number of projects ,6 to be precise, covering differrent domains and testing differrent skills of machine learning as a whole
+It consists of a number of projects ,7 to be precise, covering differrent domains and testing differrent skills of machine learning as a whole
 
 ##Contents
-**Titanic Exploration Project**
+[Titanic Exploration Project](https://github.com/Nick7hill/MLND-Udacity/blob/master/titanic-exploration/titanic-survival.ipynb)
 
 [Boston housing prices](https://github.com/Nick7hill/MLND-Udacity/blob/master/boston-housing/boston_housing.ipynb)
 
