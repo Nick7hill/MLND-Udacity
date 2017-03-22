@@ -13,7 +13,7 @@ It consists of a number of projects ,7 to be precise, covering differrent domain
 
 [smartcab](https://github.com/Nick7hill/MLND-Udacity/blob/master/smart-cab/smartcab.ipynb)
 
-**Digit Recognition**
+[image-classification](https://github.com/Nick7hill/MLND-Udacity/blob/master/image-classification/image_classification.ipynb)
 
 [Capstone](https://github.com/Nick7hill/MLND-Udacity/blob/master/capstone/pima-indians-diabetes.ipynb)
 
@@ -47,6 +47,6 @@ The fourth project is an unsupervised learnning project, where we differentiate 
 
 The fifth project is a Reinforcement learning project on training a smartcab
 
-The sixth project is a deep learning project on digit recognition
+The sixth project is a deep learning project on iamge-classification on the the CIFAR 10 dataset using tensorflow
 
 The seventh project is a supervised learning capstone project on pima-indians-diabetes dataset.
