@@ -40,7 +40,7 @@ __stacked_generalization__
 
 ## PROJECT DETAILS
 
-The first project is an optional project on the famous titanic dataset, where we predict the no of survivors based on the different features presented to us.
+The first project is an optional project on the famous titanic dataset, where we predict the no of survivors based on the different features presented to us.The project has been done without the use of machine learning libraries like scikit learn
 
 The second project aims as predicting the house prices in boston 
 
